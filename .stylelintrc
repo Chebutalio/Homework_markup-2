@@ -15,7 +15,7 @@
     "number-no-trailing-zeros": true,
     "unit-whitelist": ["em", "rem", "px", "%", "s", "vh", "vw", "deg", "ms", "fr"],
 
-    "color-hex-case": "upper",
+    "color-hex-case": "lower",
     "color-named": "never",
     "color-hex-length": "short",
     "color-no-invalid-hex": true,

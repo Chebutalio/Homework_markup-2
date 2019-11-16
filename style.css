@@ -35,7 +35,7 @@ header img {
 }
 
 .navigation ul li a:hover {
-  color: #FE7E11;
+  color: #fe7e11;
 }
 
 .mainbox {
@@ -62,13 +62,13 @@ header img {
 
 .prime-text {
   font-size: 3rem;
-  color: #FE7E11;
+  color: #fe7e11;
   font-weight: 900;
 }
 
 .btn {
   color: #666;
-  background: #FFFEFE;
+  background: #fffefe;
   padding: .5rem 3rem;
   border: 1px solid #666;
   border-radius: 25px;
@@ -79,10 +79,10 @@ header img {
 }
 
 .btn:hover {
-  color: #FFFEFE;
-  background: #FE7E11;
+  color: #fffefe;
+  background: #fe7e11;
   padding: .5rem 3rem;
-  border: 1px solid #FE7E11;
+  border: 1px solid #fe7e11;
 }
 
 .about-me-box {
@@ -90,7 +90,7 @@ header img {
   flex-direction: column;
   max-width: 1200px;
   margin: 0 auto;
-  background: #F0F0F0;
+  background: #f0f0f0;
   padding-bottom: 3rem;
 }
 
@@ -251,12 +251,12 @@ header img {
   width: 43.3%;
   height: .7rem;
   outline: none;
-  color: #5C5C5C;
+  color: #5c5c5c;
   font-size: .6rem;
   float: left;
   margin-right: 1.6rem;
   margin-bottom: 1rem;
-  border: 1px solid #CACACA;
+  border: 1px solid #cacaca;
 }
 
 .contact-form textarea {
@@ -265,13 +265,13 @@ header img {
   width: 94%;
   height: 140px;
   outline: none;
-  color: #5C5C5C;
+  color: #5c5c5c;
   font-size: .6rem;
-  border: 1px solid #CACACA;
+  border: 1px solid #cacaca;
 }
 
 .contact-form input:focus, .contact-form textarea:focus {
-  border: 1px solid #FE7E11;
+  border: 1px solid #fe7e11;
 }
 
 .contact-form input[type="email"] {
@@ -280,7 +280,7 @@ header img {
 
 .contact-form form input[type="submit"] {
   color: #666;
-  background: #FFFEFE;
+  background: #fffefe;
   padding: .5rem 3rem;
   border: 1px solid #666;
   border-radius: 25px;
@@ -294,13 +294,13 @@ header img {
 }
 
 .contact-form form input[type="submit"]:hover {
-  background: #FE7E11;
-  color: #FFFEFE;
-  border: 1px solid #FE7E11;
+  background: #fe7e11;
+  color: #fffefe;
+  border: 1px solid #fe7e11;
 }
 
 .name-error, .mail-error, .message-error {
-  background-color: #FDD;
+  background-color: #fdd;
 }
 
 .footer {
@@ -309,7 +309,7 @@ header img {
   justify-content: space-between;
   max-width: 1200px;
   margin: 0 auto;
-  background: #F0F0F0
+  background: #f0f0f0
 }
 
 .copyright {
@@ -334,5 +334,5 @@ header img {
 }
 
 .icons ul li a:hover {
-  color: #FE7E11;
+  color: #fe7e11;
 }
